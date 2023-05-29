@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NamePrinter
+comment0.text=\r\n\ \ Write\ a\ program\ named\ as\ NamePrinter.java.\ The\ program\ displays\ your\ name\ inside\ a\r\nbox\ on\ the\ console\ screen,\ like\ this\:\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

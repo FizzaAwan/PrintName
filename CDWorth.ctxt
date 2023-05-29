@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CDWorth
+comment0.text=\r\n\ \ A\ program\ that\ prompts\ for\ the\ present\ value,\ interest\ rate,\ and\ number\r\n\ \ of\ years\ for\ a\ certificate\ of\ deposit\ to\ mature,\ and\ then\ prints\ \r\n\ \ the\ present\ value.\ All\ variables\ should\ be\ of\ type\ double.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
